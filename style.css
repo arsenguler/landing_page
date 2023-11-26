@@ -9,6 +9,12 @@ div{
     padding: 0px 256px;
 }
 
+a{
+    text-decoration: none;
+    color: #F9FAF8
+}
+
+
 .header,.footer{
     background-color: #1F2937;
 }
@@ -41,6 +47,11 @@ button{
     border: none;
     color: #F9FAF8;
     font-weight: bold;
+}
+
+button:hover{
+    background-color: #294570;
+    font-weight: bolder;
 }
 
 .box{
