@@ -14,6 +14,12 @@ a{
     color: #F9FAF8
 }
 
+a:hover{
+    font-style: italic;
+    font-weight: bolder;
+    color: darkcyan;
+}
+
 
 .header,.footer{
     background-color: #1F2937;
